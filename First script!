@@ -1,0 +1,71 @@
+import os
+os.system('clear') 
+print("Hello")
+print("Welcome to Ace7x script")
+print("Made by:Ace7x")
+
+#Ace7x = ("ACE HACKER")
+#this code is for printing Ace7x
+#print (Ace7x)
+
+#AceR7 = input ("Type your name: ")
+#this command is for printing input
+#print ("Your name is: " +AceR7)
+
+#NAME = input ("What's your name: ")
+#if NAME == "R7 SAFA7" :
+    #print ("Nice Name")
+#else:
+    #print ("Type 'R7 SAFA7' please.... ")
+    #input ("=====>>: ")
+    #name = "R7 SAFA7"
+    #if name == "R7 SAFA7" :
+        #print ("Done..! ")
+        #print ("Welcome to Ace7x script")
+
+#this commad is for multi printing
+#+2=2-4-6-8-10
+#v = 0
+
+#while v < 100 :
+    #print (v)
+    #v=v+1
+
+#for v in range (100) :
+    #print (" Ace7x" *5)
+    #print ("Done by Ace! ")
+
+#.          Lists
+
+#Ace7x = ["Hi", " Welcome", "To Ace7x Script" ]
+#Ace7x.append (" Ace7x") 
+#print (Ace7x[3]*2+Ace7x[1]*2 )
+
+#Ace7x2 = [1,2,3]
+#print (Ace7x2)
+
+#.           Dictionaries
+
+#Ace7x={'key':'value','key1':'value1'}
+#print(Ace7x['key1'])
+
+#.          Functions
+
+#def Ace7x () :
+    #print (500+500)
+#Ace7x ()
+
+#.         Return Functions
+
+#def Ace7x (user, user1) :
+    #return user+user1
+
+#v=Ace7x(1000,2000)
+#print (v)
+
+
+                          #مثال.              
+#def Ace7x (your_name) :
+    #print ("Welcome back..!", your_name)
+    
+#Ace7x ("Ace7x") 
